@@ -15,17 +15,5 @@ And if you need any help i am always here.
 
 Dullat/inspired from odin-project.
 
-## preview
-
-<div style="height: 1000px; display: flex; gap: 2rem; justify-content: center;">
-<div>
-    <div>
-        * desktop
-    </div>
-    <img src="images/previewdesktop.jpg">
-</div>
-<div>
-    <div>* mobile</div>
-    <img src="images/preview-mobile.jpg">
-</div>
-</div>
+## Visit Web
+here: <a href="https://dullat.github.io/dullat_landingPage">dullat_landingPage<a>
